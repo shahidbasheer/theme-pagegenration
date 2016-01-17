@@ -688,7 +688,7 @@ section {
   }
 }
 .navbar {
-  margin-top: 50px; 
+  margin-top: 20px; 
       width: 94%;
 }
 .navbar-collapse {
@@ -698,16 +698,24 @@ section {
 
   .navbar-default .navbar-nav > li > a {
    
-    font-size: 12px;
-  
+    font-size: 14px;
+         border-right: 0; 
     padding: 17px 13px;
 }
 
 .navbar-default {
-   
-  border-right: 1px solid #c2c2c2;
-  border-left: 1px solid #c2c2c2;
+       background: transparent;
+  border-right: 0;
+  border-left: 0;
+  border: 0;
       margin-left: auto;
 /*       margin-right: auto; */
    
+}
+.navbar-default .navbar-nav > li:nth-child(1) {
+    border-left: 0;
+}
+header {
+ 
+    padding-top: 0;
 }
