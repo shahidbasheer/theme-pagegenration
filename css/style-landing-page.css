@@ -1,5 +1,5 @@
 #landing-page {
-  margin-top: 20px;
+  /* margin-top: 20px; */
 }
 
 .jumbotron {
@@ -673,3 +673,41 @@ section {
 }
 
 /*# sourceMappingURL=style-landing-page.css.map */
+
+
+
+
+@media (min-width: 1200px) { 
+  .navbar-default .navbar-nav > li > a {
+      padding: 17px 21px;
+  }
+}
+@media (min-width: 768px) { 
+  .navbar-nav {
+   float: none; 
+  }
+}
+.navbar {
+  margin-top: 50px; 
+      width: 94%;
+}
+.navbar-collapse {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  .navbar-default .navbar-nav > li > a {
+   
+    font-size: 12px;
+  
+    padding: 17px 13px;
+}
+
+.navbar-default {
+   
+  border-right: 1px solid #c2c2c2;
+  border-left: 1px solid #c2c2c2;
+      margin-left: auto;
+/*       margin-right: auto; */
+   
+}

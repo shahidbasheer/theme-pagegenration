@@ -43,17 +43,19 @@
 	        <header>
 	                <div class="container-fluid">
 	                    <div class="row">
-	                        <div class="col-md-2 col-sm-6 col-xm-12">
-	                            <div class="logo">
-	                                <a href="index.php"><img title="" src="<?php echo  theme_root . '/'; ?>images/gvg.logo.png" alt=""></a>
-	                            </div>
-	                        </div>
-	                        <div
-	                        </div>
+		                        <div class="col-md-2 col-sm-6 col-xm-12">
+		                            <div class="logo">
+		                                <a href="index.php"><img title="" src="<?php echo  theme_root . '/'; ?>images/gvg.logo.png" alt=""></a>
+		                            </div>
+		                        </div>
+		                         <div class="col-md-10 col-sm-6 col-xm-12">
+		                         	 <?php get_template_part('nav' ); ?>
+		                         </div>
+	                        
 	                    </div> <!-- row -->
 	                    <div class="row">
 	                        <div class="col-md-12 col-sm-12 col-xm-12">
-	                           
+	                          
 	                        </div>
 	                    </div>
 	                </div>
@@ -61,7 +63,7 @@
 
 	            <!-- Start of nav -->
 	        
-	    
+	    	
 	        
 	        <?php //wp_nav_menu( array( 'theme_location' => 'primary', 'menu_id' => 'primary-menu' ) ); ?>
 	        <div class="socialSecond socialMedia-switcher socialMedia-switcher--right"></div>
