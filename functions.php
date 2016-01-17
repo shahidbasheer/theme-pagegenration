@@ -77,7 +77,7 @@ function _s_setup() {
 		'default-image' => '',
 	) ) );
 }
-endif;
+endif; // _s_setup
 add_action( 'after_setup_theme', '_s_setup' );
 
 /**
@@ -150,3 +150,16 @@ require get_template_directory() . '/inc/customizer.php';
  * Load Jetpack compatibility file.
  */
 require get_template_directory() . '/inc/jetpack.php';
+
+
+remove_filter( 'the_content', 'wpautop' );
+remove_filter( 'the_excerpt', 'wpautop' );
+
+define('theme_root',  get_template_directory_uri() );
+
+$theme_root =   theme_root;
+
+function insert_jquery(){
+wp_enqueue_script('jquery', false, array(), false, false);
+}
+add_filter('wp_enqueue_scripts','insert_jquery',1);
