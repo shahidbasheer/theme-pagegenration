@@ -213,7 +213,7 @@ section {
   min-width: 200px;
   border-radius: 0;
 }
-.lp__before-and-after .btn-div .btn, .lp__before-and-after .btn-div #landing-form .gform_wrapper .gform_footer input.button, #landing-form .gform_wrapper .gform_footer .lp__before-and-after .btn-div input.button, .lp__before-and-after .btn-div #landing-form .gform_wrapper .gform_footer input[type=submit], #landing-form .gform_wrapper .gform_footer .lp__before-and-after .btn-div input[type=submit] {
+.lp__before-and-after .btn-div .btn {
   margin-bottom: -100px;
   border: 6px solid #ededed;
   border-radius: 4px;
@@ -477,7 +477,7 @@ section {
   margin-bottom: 20px;
   height: 40px;
 }
-#landing-form .btn, #landing-form .gform_wrapper .gform_footer input.button, #landing-form .gform_wrapper .gform_footer input[type=submit] {
+#landing-form .btn {
   margin-bottom: 10px;
   text-transform: uppercase;
   padding: 8px 12px;
@@ -533,6 +533,99 @@ section {
   padding: 0px 15px;
   margin-right: auto;
   margin-left: auto;
+  background: #fff;
+  margin-right: auto;
+  margin-left: auto;
+}
+#landing-form-2 .gform_wrapper .gfield_required {
+  color: #790000;
+  margin-left: 4px;
+  display: none;
+}
+#landing-form-2 .gform_wrapper .gform_heading {
+  width: 98%;
+  margin-bottom: 0;
+}
+#landing-form-2 .gform_wrapper div.validation_error {
+  margin-bottom: 0;
+}
+#landing-form-2 .gform_wrapper li.gfield.gfield_error, #landing-form-2 .gform_wrapper li.gfield.gfield_error.gfield_contains_required.gfield_creditcard_warning {
+  background-color: #fff;
+  margin-bottom: 0.375em !important;
+  padding: 0;
+  border-top: 0px solid #C89797;
+  border-bottom: 0px solid #C89797;
+}
+#landing-form-2 .gform_wrapper .datepicker {
+  width: 100% !important;
+}
+#landing-form-2 .gform_wrapper div.validation_error {
+  color: #790000;
+  font-size: 1em;
+  font-weight: 400;
+  margin-bottom: 0;
+  border-top: 0px solid #790000;
+  border-bottom: 0px solid #790000;
+  padding: 0;
+  clear: both;
+  width: 97.5%;
+}
+#landing-form-2 .gform_wrapper .gform_footer input.button, #landing-form-2 .gform_wrapper .gform_footer input[type=submit] {
+  color: #ffffff;
+  background-color: #fa8f3e;
+  border-color: #793c1a;
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+#landing-form-2 .gform_wrapper .gfield_checkbox li, #landing-form-2 .gform_wrapper .gfield_radio li {
+  position: relative;
+  margin: 0;
+}
+#landing-form-2 .gform_wrapper h3.gform_title {
+  letter-spacing: normal !important;
+  margin: 20px;
+}
+#landing-form-2 .gform_wrapper label.gfield_label + div.ginput_container {
+  margin-top: 0;
+}
+#landing-form-2 .gform_wrapper label {
+  display: none !important;
+}
+#landing-form-2 .gform_wrapper .gfield_checkbox label {
+  display: block !important;
+}
+#landing-form-2 .ginput_container input {
+  margin-bottom: 16px;
+}
+#landing-form-2 .gform_wrapper .gform_footer {
+  padding: 0;
+  margin: 1em 0 0;
+  clear: both;
+}
+#landing-form-2 .gform_wrapper li.gfield.gfield_error.gfield_contains_required div.gfield_description {
+  max-width: 100%;
+  padding-right: 6px !important;
+  margin-top: -22px;
+}
+#landing-form-2 .gform_confirmation_message_1 .gform_confirmation_message {
+  margin-bottom: 10px;
 }
 #landing-form-2 h2 {
   text-align: center;
@@ -543,33 +636,54 @@ section {
   margin-bottom: 20px;
   height: 40px;
 }
-#landing-form-2 .btn, #landing-form-2 #landing-form .gform_wrapper .gform_footer input.button, #landing-form .gform_wrapper .gform_footer #landing-form-2 input.button, #landing-form-2 #landing-form .gform_wrapper .gform_footer input[type=submit], #landing-form .gform_wrapper .gform_footer #landing-form-2 input[type=submit] {
+#landing-form-2 .btn {
   margin-bottom: 10px;
   text-transform: uppercase;
   padding: 8px 12px;
   font-size: 22px;
 }
+#landing-form-2 input {
+  width: 100%;
+}
+#landing-form-2 .form-group input {
+  width: 100%;
+}
 #landing-form-2 ::-webkit-input-placeholder {
   /* WebKit, Blink, Edge */
   color: #000;
+  font-size: 0.9em;
 }
 #landing-form-2 :-moz-placeholder {
-  /* Mozilla Firefox 4 to 18  */
+  /* Mozilla Firefox 4 to 18 */
   color: #000;
+  font-size: 0.9em;
   opacity: 1;
 }
 #landing-form-2 ::-moz-placeholder {
   /* Mozilla Firefox 19+ */
   color: #000;
+  font-size: 0.9em;
   opacity: 1;
 }
 #landing-form-2 :-ms-input-placeholder {
   /* Internet Explorer 10-11 */
   color: #000;
+  font-size: 0.9em;
 }
 #landing-form-2 :placeholder-shown {
   /* Standard (https://drafts.csswg.org/selectors-4/#placeholder) */
   color: #000;
+  font-size: 0.9em;
+}
+#landing-form-2 .btn-sample {
+  color: #ffffff;
+  background-color: #fa8f3e;
+  border-color: #793c1a;
+}
+#landing-form-2 .btn-sample:hover, #landing-form-2 .btn-sample:focus, #landing-form-2 .btn-sample:active, #landing-form-2 .btn-sample.active {
+  color: #ffffff;
+  background-color: #fa8f3e;
+  border-color: #793c1a;
 }
 #landing-form-2 .btn-sample {
   color: #ffffff;

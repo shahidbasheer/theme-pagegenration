@@ -353,61 +353,9 @@ Template Name: landing-page
                                 <div class="innner">
                                     <div class="row">
                                         <div class="col-xs-12 col-sm-12 col-md-5">
-                                                        <form id="landing-form-2">
-                                                            <div class="row">
-                                                                <div class="co-sm-12">
-                                                                    <h2>Start Your Free Trial Now!</h2>
-                                                                    <div class="checkbox">
-                                                                      <label>
-                                                                        <input type="checkbox" value="">
-                                                                        I would like to send photos for a quote
-                                                                      </label>
-                                                                    </div>
-                                                                    
-                                                                    <div class="checkbox">
-                                                                      <label>
-                                                                        <input type="checkbox" value="">
-                                                                        I would like an in office consultation
-                                                                      </label>
-                                                                    </div>
-                                                                    
-                                                                    <div class="checkbox">
-                                                                      <label>
-                                                                        <input type="checkbox" value="">
-                                                                        I would like to learn more about my options
-                                                                      </label>
-                                                                    </div>
-                                                                    
-                                                                    <div class="checkbox" style="margin-bottom: 50px; ">
-                                                                      <label>
-                                                                        <input type="checkbox" value="">
-                                                                        Other
-                                                                      </label>
-                                                                    </div>
-
-                                                                    <div class="form-group">
-                                                                       <label class="sr-only" for="exampleInputEmail2"></label>
-                                                                       <input type="email" class="form-control" id="exampleInputEmail2" placeholder="Your Full Name">
-                                                                     </div>
-                                                                     <div class="form-group">
-                                                                       <label class="sr-only" for="exampleInputPassword2"></label>
-                                                                       <input type="password" class="form-control" id="exampleInputPassword2" placeholder="Your Phone Name">
-                                                                     </div>
-
-                                                                     <div class="form-group">
-                                                                        <label class="sr-only" for="exampleInputEmail2"></label>
-                                                                        <input type="email" class="form-control" id="exampleInputEmail2" placeholder="Your Email Address">
-                                                                      </div>
-                                                                      <div class="form-group">
-                                                                        <label class="sr-only" for="exampleInputPassword2"></label>
-                                                                        <input type="password" class="form-control" id="exampleInputPassword2" placeholder="Date & Time" style="margin-bottom: 30px; ">
-                                                                      </div>
-
-                                                                      <button type="submit" class="btn btn-block  btn-sample" >book your Appointment</button>
-
-                                                                </div>
-                                                            </div>
-                                                        </form>    
+                                            <div id="landing-form-2">
+                                                <?php echo do_shortcode('[gravityform id="2" title="true" description="true" ajax="true" tabindex="2"]'); ?>                                                                              
+                                            </div>
                                         </div>         
 
                                         <div class="col-xs-12  col-sm-12 col-md-7">
