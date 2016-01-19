@@ -759,6 +759,10 @@ section {
   .lp__appointmetn-bottom {
     padding: 10px 200px;
   }
+
+  #landing-form {
+    min-width: 462px;
+  }
 }
 .visible-print {
   display: none !important;
