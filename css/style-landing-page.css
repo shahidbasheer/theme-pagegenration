@@ -750,6 +750,10 @@ section {
   .lp__appointmetn-bottom {
     padding: 10px 100px;
   }
+
+  #landing-form {
+    left: 10%;
+  }
 }
 @media (min-width: 1200px) {
   .lp__appointmetn-bottom {
