@@ -40,7 +40,7 @@ Template Name: landing-page
                         <div class="col-md-6">
                                     <div id="landing-form">
                                        
-                                       <?php echo do_shortcode('[gravityform id="1" title="true" description="true" ajax="true" tabindex="1"]'); ?>                  
+                                       <?php echo do_shortcode('[gravityform id="1" title="true" ajax="true" tabindex="1"]'); ?>                  
 
                                     </div>
                                      
@@ -354,7 +354,7 @@ Template Name: landing-page
                                     <div class="row">
                                         <div class="col-xs-12 col-sm-12 col-md-5">
                                             <div id="landing-form-2">
-                                                <?php echo do_shortcode('[gravityform id="2" title="true" description="true" ajax="true" tabindex="2"]'); ?>                                                                              
+                                                <?php echo do_shortcode('[gravityform id="2" title="true"  ajax="true" tabindex="2"]'); ?>                                                                              
                                             </div>
                                         </div>         
 
