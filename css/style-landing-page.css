@@ -378,6 +378,9 @@ section {
   margin-right: auto;
   margin-left: auto;
 }
+#landing-form section.lp__appointmetn-bottom div .col-md-5 {
+  padding-left: 0 !important;
+}
 #landing-form .gform_wrapper .gfield_required {
   color: #790000;
   margin-left: 4px;
