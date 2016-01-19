@@ -441,7 +441,7 @@ section {
 }
 #landing-form .gform_wrapper h3.gform_title {
   letter-spacing: normal !important;
-  margin: 0;
+  margin: 20px;
 }
 #landing-form .gform_wrapper label.gfield_label + div.ginput_container {
   margin-top: 0;
@@ -464,6 +464,9 @@ section {
   max-width: 100%;
   padding-right: 6px !important;
   margin-top: -22px;
+}
+#landing-form .gform_confirmation_message_1 .gform_confirmation_message {
+  margin-bottom: 10px;
 }
 #landing-form h2 {
   text-align: center;
