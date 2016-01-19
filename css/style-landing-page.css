@@ -1,5 +1,5 @@
 #landing-page {
-  /* margin-top: 20px; */
+  margin-top: 20px;
 }
 
 .jumbotron {
@@ -213,7 +213,7 @@ section {
   min-width: 200px;
   border-radius: 0;
 }
-.lp__before-and-after .btn-div .btn {
+.lp__before-and-after .btn-div .btn, .lp__before-and-after .btn-div #landing-form .gform_wrapper .gform_footer input.button, #landing-form .gform_wrapper .gform_footer .lp__before-and-after .btn-div input.button, .lp__before-and-after .btn-div #landing-form .gform_wrapper .gform_footer input[type=submit], #landing-form .gform_wrapper .gform_footer .lp__before-and-after .btn-div input[type=submit] {
   margin-bottom: -100px;
   border: 6px solid #ededed;
   border-radius: 4px;
@@ -372,12 +372,98 @@ section {
   z-index: 9999;
   max-width: 500px;
   background: #fff;
-  padding: 0px 15px;
-  padding: 20px 40px;
+  padding: 20px 10px 0px;
   border: 6px solid rgba(173, 90, 10, 0.8);
   border-radius: 6px;
   margin-right: auto;
   margin-left: auto;
+}
+#landing-form .gform_wrapper .gfield_required {
+  color: #790000;
+  margin-left: 4px;
+  display: none;
+}
+#landing-form .gform_wrapper .gform_heading {
+  width: 98%;
+  margin-bottom: 0;
+}
+#landing-form .gform_wrapper div.validation_error {
+  margin-bottom: 0;
+}
+#landing-form .gform_wrapper li.gfield.gfield_error, #landing-form .gform_wrapper li.gfield.gfield_error.gfield_contains_required.gfield_creditcard_warning {
+  background-color: #fff;
+  margin-bottom: 0.375em !important;
+  padding: 0;
+  border-top: 0px solid #C89797;
+  border-bottom: 0px solid #C89797;
+}
+#landing-form .gform_wrapper .datepicker {
+  width: 100% !important;
+}
+#landing-form .gform_wrapper div.validation_error {
+  color: #790000;
+  font-size: 1em;
+  font-weight: 400;
+  margin-bottom: 0;
+  border-top: 0px solid #790000;
+  border-bottom: 0px solid #790000;
+  padding: 0;
+  clear: both;
+  width: 97.5%;
+}
+#landing-form .gform_wrapper .gform_footer input.button, #landing-form .gform_wrapper .gform_footer input[type=submit] {
+  color: #ffffff;
+  background-color: #fa8f3e;
+  border-color: #793c1a;
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-image: none;
+  border: 1px solid transparent;
+  border-radius: 4px;
+}
+#landing-form .gform_wrapper .gfield_checkbox li, #landing-form .gform_wrapper .gfield_radio li {
+  position: relative;
+  margin: 0;
+}
+#landing-form .gform_wrapper h3.gform_title {
+  letter-spacing: normal !important;
+  margin: 0;
+}
+#landing-form .gform_wrapper label.gfield_label + div.ginput_container {
+  margin-top: 0;
+}
+#landing-form .gform_wrapper label {
+  display: none !important;
+}
+#landing-form .gform_wrapper .gfield_checkbox label {
+  display: block !important;
+}
+#landing-form .ginput_container input {
+  margin-bottom: 16px;
+}
+#landing-form .gform_wrapper .gform_footer {
+  padding: 0;
+  margin: 1em 0 0;
+  clear: both;
+}
+#landing-form .gform_wrapper li.gfield.gfield_error.gfield_contains_required div.gfield_description {
+  max-width: 100%;
+  padding-right: 6px !important;
+  margin-top: -22px;
 }
 #landing-form h2 {
   text-align: center;
@@ -388,14 +474,14 @@ section {
   margin-bottom: 20px;
   height: 40px;
 }
-#landing-form .btn {
+#landing-form .btn, #landing-form .gform_wrapper .gform_footer input.button, #landing-form .gform_wrapper .gform_footer input[type=submit] {
   margin-bottom: 10px;
   text-transform: uppercase;
   padding: 8px 12px;
   font-size: 22px;
 }
 #landing-form input {
-  width: auto;
+  width: 100%;
 }
 #landing-form .form-group input {
   width: 100%;
@@ -403,24 +489,29 @@ section {
 #landing-form ::-webkit-input-placeholder {
   /* WebKit, Blink, Edge */
   color: #000;
+  font-size: 0.9em;
 }
 #landing-form :-moz-placeholder {
   /* Mozilla Firefox 4 to 18 */
   color: #000;
+  font-size: 0.9em;
   opacity: 1;
 }
 #landing-form ::-moz-placeholder {
   /* Mozilla Firefox 19+ */
   color: #000;
+  font-size: 0.9em;
   opacity: 1;
 }
 #landing-form :-ms-input-placeholder {
   /* Internet Explorer 10-11 */
   color: #000;
+  font-size: 0.9em;
 }
 #landing-form :placeholder-shown {
   /* Standard (https://drafts.csswg.org/selectors-4/#placeholder) */
   color: #000;
+  font-size: 0.9em;
 }
 #landing-form .btn-sample {
   color: #ffffff;
@@ -449,24 +540,18 @@ section {
   margin-bottom: 20px;
   height: 40px;
 }
-#landing-form-2 .btn {
+#landing-form-2 .btn, #landing-form-2 #landing-form .gform_wrapper .gform_footer input.button, #landing-form .gform_wrapper .gform_footer #landing-form-2 input.button, #landing-form-2 #landing-form .gform_wrapper .gform_footer input[type=submit], #landing-form .gform_wrapper .gform_footer #landing-form-2 input[type=submit] {
   margin-bottom: 10px;
   text-transform: uppercase;
   padding: 8px 12px;
   font-size: 22px;
-}
-#landing-form-2 input {
-  width: auto;
-}
-#landing-form-2 .form-group input {
-  width: 100%;
 }
 #landing-form-2 ::-webkit-input-placeholder {
   /* WebKit, Blink, Edge */
   color: #000;
 }
 #landing-form-2 :-moz-placeholder {
-  /* Mozilla Firefox 4 to 18 */
+  /* Mozilla Firefox 4 to 18  */
   color: #000;
   opacity: 1;
 }
@@ -672,50 +757,47 @@ section {
   display: none !important;
 }
 
-/*# sourceMappingURL=style-landing-page.css.map */
-
-
-
-
-@media (min-width: 1200px) { 
+@media (min-width: 1200px) {
   .navbar-default .navbar-nav > li > a {
-      padding: 17px 21px;
+    padding: 17px 21px;
   }
 }
-@media (min-width: 768px) { 
+@media (min-width: 768px) {
   .navbar-nav {
-   float: none; 
+    float: none;
   }
 }
 .navbar {
-  margin-top: 20px; 
-      width: 94%;
+  margin-top: 20px;
+  width: 94%;
 }
-.navbar-collapse {
-    padding-right: 0;
-    padding-left: 0;
-  }
 
-  .navbar-default .navbar-nav > li > a {
-   
-    font-size: 14px;
-         border-right: 0; 
-    padding: 17px 13px;
+.navbar-collapse {
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.navbar-default .navbar-nav > li > a {
+  font-size: 14px;
+  border-right: 0;
+  padding: 17px 13px;
 }
 
 .navbar-default {
-       background: transparent;
+  background: transparent;
   border-right: 0;
   border-left: 0;
   border: 0;
-      margin-left: auto;
-/*       margin-right: auto; */
-   
+  margin-left: auto;
+  /*       margin-right: auto; */
 }
+
 .navbar-default .navbar-nav > li:nth-child(1) {
-    border-left: 0;
+  border-left: 0;
 }
+
 header {
- 
-    padding-top: 0;
+  padding-top: 0;
 }
+
+/*# sourceMappingURL=style-landing-page.css.map */

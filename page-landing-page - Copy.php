@@ -7,7 +7,7 @@ Template Name: landing-page
 <?php get_header ('landing-page'); ?>
 <link href='https://fonts.googleapis.com/css?family=Passion+One:400,700' rel='stylesheet' type='text/css'>
 
- <link rel="stylesheet" href="<?php echo  theme_root . '/'; ?>css/style-landing-page.min.css">
+ <link rel="stylesheet" href="<?php echo  theme_root . '/'; ?>css/style-landing-page.css">
     <link rel="stylesheet" href="<?php echo  theme_root . '/'; ?>font-awesome/css/font-awesome.min.css">
     <link href='https://fonts.googleapis.com/css?family=Passion+One:400,700' rel='stylesheet' type='text/css'>
     
@@ -38,12 +38,61 @@ Template Name: landing-page
                         </ul>
                         </div> <!-- col-md-6 -->
                         <div class="col-md-6">
-                                    <div id="landing-form">
-                                       
-                                       <?php echo do_shortcode('[gravityform id="4" title="true" description="true" ajax="true" tabindex="1"]'); ?>                  
+                                     <form id="landing-form">
+                                            <div class="row">
+                                                <div class="co-sm-12">
+                                                    <h2>Start Your Free Trial Now!</h2>
+                                                    <div class="checkbox">
+                                                      <label>
+                                                        <input type="checkbox" value="">
+                                                        I would like to send photos for a quote
+                                                      </label>
+                                                    </div>
+                                                    
+                                                    <div class="checkbox">
+                                                      <label>
+                                                        <input type="checkbox" value="">
+                                                        I would like an in office consultation
+                                                      </label>
+                                                    </div>
+                                                    
+                                                    <div class="checkbox">
+                                                      <label>
+                                                        <input type="checkbox" value="">
+                                                        I would like to learn more about my options
+                                                      </label>
+                                                    </div>
+                                                    
+                                                    <div class="checkbox" style="margin-bottom: 50px; ">
+                                                      <label>
+                                                        <input type="checkbox" value="">
+                                                        Other
+                                                      </label>
+                                                    </div>
 
-                                    </div>
-                                     
+                                                    <div class="form-group">
+                                                       <label class="sr-only" for="exampleInputEmail2"></label>
+                                                       <input type="email" class="form-control" id="exampleInputEmail2" placeholder="Your Full Name">
+                                                     </div>
+                                                     <div class="form-group">
+                                                       <label class="sr-only" for="exampleInputPassword2"></label>
+                                                       <input type="password" class="form-control" id="exampleInputPassword2" placeholder="Your Phone Name">
+                                                     </div>
+
+                                                     <div class="form-group">
+                                                        <label class="sr-only" for="exampleInputEmail2"></label>
+                                                        <input type="email" class="form-control" id="exampleInputEmail2" placeholder="Your Email Address">
+                                                      </div>
+                                                      <div class="form-group">
+                                                        <label class="sr-only" for="exampleInputPassword2"></label>
+                                                        <input type="password" class="form-control" id="exampleInputPassword2" placeholder="Date & Time" style="margin-bottom: 30px; ">
+                                                      </div>
+
+                                                      <button type="submit" class="btn btn-block  btn-sample" >book your Appointment</button>
+
+                                                </div>
+                                            </div>
+                                        </form>
                         </div>  <!-- col-md-6 -->
                     </div>
                 </div> <!-- jumbotron -->
