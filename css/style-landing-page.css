@@ -448,6 +448,7 @@ section {
 }
 #landing-form .gform_wrapper label {
   display: none !important;
+  font-size: 18px;
 }
 #landing-form .gform_wrapper .gfield_checkbox label {
   display: block !important;
@@ -607,6 +608,7 @@ section {
 }
 #landing-form-2 .gform_wrapper label {
   display: none !important;
+  font-size: 18px;
 }
 #landing-form-2 .gform_wrapper .gfield_checkbox label {
   display: block !important;
