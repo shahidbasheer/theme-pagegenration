@@ -461,13 +461,13 @@ section {
 }
 #landing-form .gform_wrapper label {
   display: none !important;
-  font-size: 18px;
+  font-size: 16px;
 }
 #landing-form .gform_wrapper .gfield_checkbox label {
   display: block !important;
 }
 #landing-form .ginput_container input {
-  margin-bottom: 16px;
+  margin-bottom: 12px;
   padding-top: 10px;
   padding-left: 6px;
 }
