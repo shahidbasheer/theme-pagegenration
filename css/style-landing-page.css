@@ -388,6 +388,7 @@ section {
   border-radius: 6px;
   margin-right: auto;
   margin-left: auto;
+  padding-top: 6px;
 }
 #landing-form .gform_wrapper .gfield_required {
   color: #790000;
