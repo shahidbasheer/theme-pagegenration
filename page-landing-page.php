@@ -51,11 +51,8 @@ Template Name: landing-page
                     <section class="about-section">
                         <div class="row">
                             <div class="col-sm-12">
-                                <h3>DR GVG Center of Hair Restoration</h3>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                consequat. Duis aute irure.</p>
+                                <h3>Dr GVG Center for Hair Restoration</h3>
+                                <p>The most advanced and modern hair transplantation techniques creating the most undetectable, permanent and natural results with the fullest density and thickest results possible.</p>
                             </div>
                         </div>
                     </section> <!-- about-section -->
