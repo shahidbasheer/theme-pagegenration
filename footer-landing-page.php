@@ -35,7 +35,9 @@
 
 
 
+   
    <script src="<?php echo  theme_root . '/'; ?>js/vendor/bootstrap.min.js"></script>
+   <script src="<?php echo  theme_root . '/'; ?>js/jquery-ui.js"></script>
   <script src="<?php echo  theme_root . '/'; ?>js/plugins.js"></script>
   <script src="<?php echo  theme_root . '/'; ?>js/superfish/js/hoverIntent.js"></script>
   <script src="<?php echo  theme_root . '/'; ?>js/main.js"></script>
@@ -63,7 +65,7 @@
               jQuery('#mlb2-1334293').find('.ml-block-form').hide();
           };
       </script>
-  <script type="text/javascript" src="//static1.mailerlite.com/js/w/webforms.js?v19"></script>
+  
 </body>
 </html>
 

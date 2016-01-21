@@ -20,6 +20,7 @@
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 <link rel="stylesheet" href="<?php echo  theme_root . '/'; ?>css/bootstrap.min.css">
 <link rel="stylesheet" href="<?php echo  theme_root . '/'; ?>css/style.css">
+<link rel="stylesheet" href="<?php echo  theme_root . '/'; ?>css/jquery-ui.css">
 
 <link rel="stylesheet" href="<?php echo  theme_root . '/'; ?>fonts/font-awesome/css/font-awesome.min.css">
 <link rel="stylesheet" type="css" href="<?php echo  theme_root . '/'; ?>js/ct-social-widgets/pluginstyle.css">

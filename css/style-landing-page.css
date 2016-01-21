@@ -1,3 +1,7 @@
+header .logo {
+  margin-top: 15px;
+}
+
 #landing-page {
   margin-top: 20px;
 }
@@ -25,11 +29,12 @@
   font-weight: bold;
   text-transform: capitalize;
 }
-.jumbotron ul {
+.jumbotron .banner-text ul {
   margin-top: 24px;
 }
-.jumbotron ul li {
+.jumbotron .banner-text ul li {
   font-size: 20px;
+  margin-bottom: 3px;
 }
 
 section {
@@ -46,6 +51,7 @@ section {
 }
 .about-section h3 {
   text-align: center;
+  font-size: 26px;
 }
 .about-section h3 {
   font-weight: bold;
@@ -53,6 +59,7 @@ section {
 }
 .about-section p {
   font-size: 20px;
+  line-height: 1.5;
 }
 
 .lp__lear-more {
@@ -460,6 +467,8 @@ section {
 }
 #landing-form .ginput_container input {
   margin-bottom: 16px;
+  padding-top: 10px;
+  padding-left: 6px;
 }
 #landing-form .gform_wrapper .gform_footer {
   padding: 0;
@@ -897,7 +906,7 @@ section {
 }
 @media (min-width: 768px) {
   .navbar-nav {
-    float: none;
+    float: right;
   }
 }
 .navbar {
@@ -911,7 +920,7 @@ section {
 }
 
 .navbar-default .navbar-nav > li > a {
-  font-size: 14px;
+  font-size: 16px;
   border-right: 0;
   padding: 17px 13px;
 }

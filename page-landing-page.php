@@ -27,20 +27,20 @@ Template Name: landing-page
                     <div class="row">
                         <div class="col-md-6">
                         <h1>Restoring more Than Just hair ... changing lives</h1>
-                        <ul class="list-unstyled">
-                            <li>hair tranpalant  hair Tranp</li>
-                            <li>hair tranpalant  hair Tranp</li>
-                            <li>hair tranpalant  hair Tranp</li>
-                            <li>hair tranpalant  hair Tranp</li>
-                            <li>hair tranpalant  hair Tranp</li>
-                            <li>hair tranpalant  hair Tranp</li>
+                        <ul class="list-unstyled banner-text">
+                            <li><i class="fa fa-check"></i> Stay on top with guaranteed results.</li>
+                            <li><i class="fa fa-check"></i> Restoring hair with cutting edge technology.</li>
+                            <li><i class="fa fa-check"></i> Optimized results in attaining the most natural look.</li>
+                            <li><i class="fa fa-check"></i> Customized Quality care to our guests.</li>
+                            <li><i class="fa fa-check"></i> Dedicated team assisting throughout the process.</li>
+                            
 
                         </ul>
                         </div> <!-- col-md-6 -->
                         <div class="col-md-6">
                                     <div id="landing-form">
                                        
-                                       <?php echo do_shortcode('[gravityform id="1" title="true" ajax="true" tabindex="1"]'); ?>                  
+                                       <?php echo do_shortcode('[gravityform id="5" title="true" ajax="true" tabindex="1"]'); ?>                  
 
                                     </div>
                                      

@@ -195,6 +195,18 @@
          //            form_p.html('Thank you! You have successfully subscribed to our newsletter.');
                     
          //          }
+
+         function custom_datepicker () {
+            console.log("date picker fired");
+             $( ".custom-date-picker input" ).datepicker();
+            $( ".custom-date-picker-2 input" ).datepicker();  
+
+
+         }
+
+         custom_datepicker();
+
+         setTimeout(function() { custom_datepicker(); }, 3000);
                 
     });
   
