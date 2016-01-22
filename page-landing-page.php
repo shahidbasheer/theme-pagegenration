@@ -25,7 +25,7 @@ Template Name: landing-page
                 
                 <div class="jumbotron">
                     <div class="row">
-                        <div class="col-md-6">
+                        <div class="col-xs-12 col-sm-6 col-md-6">
                         <h1>Restoring more Than Just hair ... changing lives</h1>
                         <ul class="list-unstyled banner-text">
                             <li><i class="fa fa-check"></i> Stay on top with guaranteed results.</li>
@@ -37,7 +37,7 @@ Template Name: landing-page
 
                         </ul>
                         </div> <!-- col-md-6 -->
-                        <div class="col-md-6">
+                        <div class="col-xs-12 col-sm-6 col-md-6">
                                     <div id="landing-form">
                                        
                                        <?php echo do_shortcode('[gravityform id="1" title="true" ajax="true" tabindex="1"]'); ?>                  
