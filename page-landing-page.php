@@ -356,12 +356,12 @@ and anemia. </p>
                             </div>
                             <div class="col-sm-6">
                                 <div class="dr-msg clearfix">
-                                    <h4>Dr GVG Clinic - Hair Transplant</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+                                    <h4>About Dr GVG</h4>
+                                    <h4>DR GUNASEKAR VUPPALAPATI</h4>
+                                    <h4><small>MBBS, MS, FRCS, MCh (Plastic Surgeon)</small></h4>
+                                    <p>Dr GV is the founder of DrGVG aesthetic center, with a magnificent knowledge and experience of 13 years in cosmetic, plastic and reconstructive surgery, doing wonders in cosmetic world. He has been trained at premier & world renowned plastic surgery institutions in India and abroad that includes Stanley Hospital, Chennai; Royal Preston Hospital, UK; Bichat hospital, Paris; East Grinstead, UK, to name a few. With a special interest in breast reconstruction surgery, hand surgery and high definition body sculpting surgery for a perfect fat less body he has presented many papers in different plastic surgery conference.</p>
 
-                                    <p class="msg-small-text hidden-sm hidden-xs">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p>
+                                    <p class="msg-small-text hidden-sm hidden-xs">He is the first person in the world to discovered a special artery in hand called “Commissural Artery of Web space” which has later been found pioneer discovery for the surgical correction of many hand deformities.</p>
 
                                     <img src="<?php echo  theme_root . '/'; ?>images
 
