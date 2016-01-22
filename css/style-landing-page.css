@@ -103,6 +103,10 @@ section {
   margin-left: -15px;
   margin-right: -15px;
 }
+.lp__lear-more .tab-content p {
+  font-size: 20px;
+  line-height: 1.4;
+}
 .lp__lear-more .tab-content ul {
   margin-left: 20px;
 }
@@ -849,6 +853,7 @@ section {
   .about-section {
     padding: 0 100px;
     margin-bottom: 50px;
+    margin-top: 330px;
   }
 
   section {
