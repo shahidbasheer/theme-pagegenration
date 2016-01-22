@@ -113,7 +113,7 @@ Template Name: landing-page
                                                
 
 
-                                                <p class="bold">Come here.. ( will email u the photo separate )</p>
+                                                <!-- <p class="bold">Come here.. ( will email u the photo separate )</p> -->
 
                                                 <p>Causes of Hair loss could be of various factors. Hair loss in guys results mostly from male-pattern baldness, a genetic trait that comes from one of their parent’s Other causes includes certain medications, smoking, Illness or stress can lead to sudden, heavy shedding called telogen effluvium. Good news, though: Hair loss that isn’t from male-pattern baldness often reverses itself.</p>
 
@@ -202,7 +202,7 @@ and anemia. </p>
                                                                                        
 
 
-                                                                                        <p class="bold">Come here.. ( will email u the photo separate )</p>
+                                                                                        <!-- <p class="bold">Come here.. ( will email u the photo separate )</p> -->
 
                                                                                         <p>Others include autoimmune diseases, polycystic ovary syndrome (PCOS), and skin conditions such as psoriasis and seborrheic dermatitis. Extreme stress; physical trauma like surgery or intense illness; dramatic weight loss over a short period of time can also be a cause for hair loss.</p>
 
