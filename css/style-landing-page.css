@@ -259,9 +259,9 @@ section {
 .lp__blog .dr-msg {
   background: #eef7ff;
   border: 1px solid #0163be;
-  padding: 20px;
+  padding: 24px;
   position: relative;
-  height: 400px;
+  min-height: 400px;
 }
 .lp__blog .dr-msg .title {
   display: inline-block;
