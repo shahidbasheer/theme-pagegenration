@@ -358,7 +358,7 @@ and anemia. </p>
                                 <div class="dr-msg clearfix">
                                     <img src="<?php echo  theme_root . '/'; ?>images/dr.png">
                                     <div class="title">
-                                        <h5>About Dr GVG</h5>
+                                        <h4>About Dr GVG</h4>
                                         <h5>DR GUNASEKAR VUPPALAPATI</h4>
                                         <h5><small>MBBS, MS, FRCS, MCh (Plastic Surgeon)</small></h5>
                                     </div>
