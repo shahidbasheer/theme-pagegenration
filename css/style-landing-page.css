@@ -263,19 +263,25 @@ section {
   position: relative;
   height: 400px;
 }
+.lp__blog .dr-msg .title {
+  display: inline-block;
+}
+.lp__blog .dr-msg .title h5 {
+  font-size: 18px;
+  font-weight: bold;
+}
 .lp__blog .dr-msg p {
   margin: 0px;
+  font-size: 14px;
   /* max-width: 300px; */
-}
-.lp__blog .dr-msg p.msg-small-text {
-  max-width: 280px;
+  line-height: 1.5;
 }
 .lp__blog .dr-msg img {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  width: 200px;
+  width: 50px;
   height: auto;
+  display: inline-block;
+  vertical-align: text-bottom;
+  margin-right: 10px;
 }
 .lp__blog .m-b-30 {
   margin-bottom: 20px;
