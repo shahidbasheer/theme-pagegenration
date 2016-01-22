@@ -1,4 +1,4 @@
-<?php
+n<?php
 /*
 Template Name: landing-page
 */
@@ -82,30 +82,30 @@ Template Name: landing-page
                                                   <div class="carousel-1">
                                                    
                                                         <div id="demo" >
-                                                             <div class="item"><img src="<?php echo  theme_root . '/'; ?>images/dr.png" alt="Owl Image"></div>
-                                                             <div class="item"><img src="<?php echo  theme_root . '/'; ?>images
+                                                             <div class="item"><img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images/dr.png" alt="Owl Image"></div>
+                                                             <div class="item"><img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
 /dr.png" alt="Owl Image"></div>
-                                                             <div class="item"><img src="<?php echo  theme_root . '/'; ?>images
+                                                             <div class="item"><img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
 /dr.png" alt="Owl Image"></div>
-                                                             <div class="item"><img src="<?php echo  theme_root . '/'; ?>images
+                                                             <div class="item"><img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
 /dr.png" alt="Owl Image"></div>
-                                                             <div class="item"><img src="<?php echo  theme_root . '/'; ?>images
+                                                             <div class="item"><img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
 /dr.png" alt="Owl Image"></div>
-                                                             <div class="item"><img src="<?php echo  theme_root . '/'; ?>images
+                                                             <div class="item"><img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
 /dr.png" alt="Owl Image"></div>
-                                                             <div class="item"><img src="<?php echo  theme_root . '/'; ?>images
+                                                             <div class="item"><img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
 /dr.png" alt="Owl Image"></div>
                                                         </div>
-                                                        <img src="<?php echo  theme_root . '/'; ?>images
+                                                        <img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
 /pre-landing.png" alt="" class="indicator-pre">
-                                                        <img src="<?php echo  theme_root . '/'; ?>images
+                                                        <img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
 /next-landing.png" alt="" class="indicator-next">
                                                   </div>
@@ -125,7 +125,7 @@ Template Name: landing-page
                                                         <a href="#" class="lp__lear-more_anchor">
                                                             <p class="heading">hair Loss Treatment</p>
                                                             <p class="small">From Surgical to non - sergical</p>
-                                                            <img src="<?php echo  theme_root . '/'; ?>images
+                                                            <img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
 /free-60-icons-03.png">
                                                         </a>
@@ -135,7 +135,7 @@ Template Name: landing-page
                                                         <a href="#" class="lp__lear-more_anchor">
                                                             <p class="heading">hair Loss Treatment</p>
                                                             <p class="small">From Surgical to non - sergical</p>
-                                                            <img src="<?php echo  theme_root . '/'; ?>images
+                                                            <img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
 /free-60-icons-03.png">
                                                         </a>
@@ -145,7 +145,7 @@ Template Name: landing-page
                                                         <a href="#" class="lp__lear-more_anchor">
                                                             <p class="heading">hair Loss Treatment</p>
                                                             <p class="small">From Surgical to non - sergical</p>
-                                                            <img src="<?php echo  theme_root . '/'; ?>images
+                                                            <img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
 /free-60-icons-03.png">
                                                         </a>
@@ -171,30 +171,30 @@ and anemia. </p>
                                                                                           <div class="carousel-1">
                                                                                            
                                                                                                 <div id="demo-2" >
-                                                                                                     <div class="item"><img src="<?php echo  theme_root . '/'; ?>images/dr.png" alt="Owl Image"></div>
-                                                                                                     <div class="item"><img src="<?php echo  theme_root . '/'; ?>images
+                                                                                                     <div class="item"><img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images/dr.png" alt="Owl Image"></div>
+                                                                                                     <div class="item"><img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
                                         /dr.png" alt="Owl Image"></div>
-                                                                                                     <div class="item"><img src="<?php echo  theme_root . '/'; ?>images
+                                                                                                     <div class="item"><img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
                                         /dr.png" alt="Owl Image"></div>
-                                                                                                     <div class="item"><img src="<?php echo  theme_root . '/'; ?>images
+                                                                                                     <div class="item"><img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
                                         /dr.png" alt="Owl Image"></div>
-                                                                                                     <div class="item"><img src="<?php echo  theme_root . '/'; ?>images
+                                                                                                     <div class="item"><img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
                                         /dr.png" alt="Owl Image"></div>
-                                                                                                     <div class="item"><img src="<?php echo  theme_root . '/'; ?>images
+                                                                                                     <div class="item"><img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
                                         /dr.png" alt="Owl Image"></div>
-                                                                                                     <div class="item"><img src="<?php echo  theme_root . '/'; ?>images
+                                                                                                     <div class="item"><img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
                                         /dr.png" alt="Owl Image"></div>
                                                                                                 </div>
-                                                                                                <img src="<?php echo  theme_root . '/'; ?>images
+                                                                                                <img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
                                         /pre-landing.png" alt="" class="indicator-pre">
-                                                                                                <img src="<?php echo  theme_root . '/'; ?>images
+                                                                                                <img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
                                         /next-landing.png" alt="" class="indicator-next">
                                                                                           </div>
@@ -214,7 +214,7 @@ and anemia. </p>
                                                                                                 <a href="#" class="lp__lear-more_anchor">
                                                                                                     <p class="heading">hair Loss Treatment</p>
                                                                                                     <p class="small">From Surgical to non - sergical</p>
-                                                                                                    <img src="<?php echo  theme_root . '/'; ?>images
+                                                                                                    <img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
                                         /free-60-icons-03.png">
                                                                                                 </a>
@@ -224,7 +224,7 @@ and anemia. </p>
                                                                                                 <a href="#" class="lp__lear-more_anchor">
                                                                                                     <p class="heading">hair Loss Treatment</p>
                                                                                                     <p class="small">From Surgical to non - sergical</p>
-                                                                                                    <img src="<?php echo  theme_root . '/'; ?>images
+                                                                                                    <img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
                                         /free-60-icons-03.png">
                                                                                                 </a>
@@ -234,7 +234,7 @@ and anemia. </p>
                                                                                                 <a href="#" class="lp__lear-more_anchor">
                                                                                                     <p class="heading">hair Loss Treatment</p>
                                                                                                     <p class="small">From Surgical to non - sergical</p>
-                                                                                                    <img src="<?php echo  theme_root . '/'; ?>images
+                                                                                                    <img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
                                         /free-60-icons-03.png">
                                                                                                 </a>
@@ -260,7 +260,7 @@ and anemia. </p>
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="lp__testimonial__block">
-                                    <img src="<?php echo  theme_root . '/'; ?>images
+                                    <img src=http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
 /Screenshot_35.png" class="pull-left">
                                     <p class="msg">Lorem ipsum dolor sit amet, <span class="black">consectetur</span> adipisicing elit. Voluptatibus, .</p>
@@ -270,7 +270,7 @@ and anemia. </p>
                             </div>
                             <div class="col-sm-6">
                                 <div class="lp__testimonial__block">
-                                    <img src="<?php echo  theme_root . '/'; ?>images
+                                    <img src=http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
 /Screenshot_35.png" class="pull-left">
                                     <p class="msg">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, .</p>
@@ -284,7 +284,7 @@ and anemia. </p>
                         <div class="row">
                             <div class="col-sm-6">
                                 <div class="lp__testimonial__block">
-                                    <img src="<?php echo  theme_root . '/'; ?>images
+                                    <img src=http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
 /Screenshot_35.png" class="pull-left">
                                     <p class="msg">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, .</p>
@@ -294,7 +294,7 @@ and anemia. </p>
                             </div>
                             <div class="col-sm-6">
                                 <div class="lp__testimonial__block">
-                                    <img src="<?php echo  theme_root . '/'; ?>images
+                                    <img src=http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
 /Screenshot_35.png" class="pull-left">
                                     <p class="msg">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus, .</p>
@@ -312,22 +312,22 @@ and anemia. </p>
                             <h3>The work's most expdrienced hair restoration expert</h3>
                             <ul class="list-inline">
                                 <li>
-                                    <img src="<?php echo  theme_root . '/'; ?>images
+                                    <img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
 /Screenshot_36.png">
                                 </li>
                                 <li>
-                                    <img src="<?php echo  theme_root . '/'; ?>images
+                                    <img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
 /Screenshot_36.png">
                                 </li>
                                 <li>
-                                    <img src="<?php echo  theme_root . '/'; ?>images
+                                    <img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
 /Screenshot_36.png">
                                 </li>
                                 <li>
-                                    <img src="<?php echo  theme_root . '/'; ?>images
+                                    <img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
 /Screenshot_36.png">
                                 </li>
@@ -356,7 +356,7 @@ and anemia. </p>
                             </div>
                             <div class="col-sm-6">
                                 <div class="dr-msg clearfix">
-                                    <img src="<?php echo  theme_root . '/'; ?>images/dr-2.png">
+                                    <img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images/dr-2.png">
                                     <div class="title">
                                         <h4>About Dr GVG</h4>
                                         <h5>DR GUNASEKAR VUPPALAPATI</h4>
@@ -375,7 +375,7 @@ and anemia. </p>
                     <section class="lp__faqs">
                         <div class="lp__faqs_heading">
                             <p>Step by Step Guid to Your Restoration by Dr GVG Team</p>
-                            <img src="<?php echo  theme_root . '/'; ?>images
+                            <img src="http://hairtransplant.drgvg.co.in/wp-content/themes/_s/images
 
 /dr-round.png" >
                         </div>
