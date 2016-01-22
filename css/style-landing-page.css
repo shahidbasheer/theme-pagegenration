@@ -108,7 +108,7 @@ section {
   line-height: 1.4;
 }
 .lp__lear-more .tab-content ul {
-  margin-left: 50px;
+  margin-left: 55px;
 }
 
 .lp__lear-more_anchor {
@@ -933,6 +933,10 @@ section {
 
   #landing-form {
     left: 10%;
+  }
+
+  .lp__lear-more .tab-content ul {
+    margin-left: 15px;
   }
 }
 @media (min-width: 1200px) {
