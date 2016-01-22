@@ -346,11 +346,11 @@ and anemia. </p>
                             <div class="col-sm-6">
                                 <h4 class="m-b-30">Our Blog.</h4>
                                 <ul class="list-unstyled">
-                                    <li><a href="#">What is Male Pattern Baldness?</a></li>
-                                    <li><a href="#">How guys can deal with Hair Loss? </a></li>
-                                    <li><a href="#">Identifying what stage is your hair loss?</a></li>
-                                    <li><a href="#">Female Hair Loss: Thinning Hair?</a></li>
-                                    <li><a href="#">Diet & Nutrition Advice for Female Hair Loss?</a></li>
+                                    <li><a href="http://www.blog.drgvg.co.in/what-is-male-pattern-baldness/">What is Male Pattern Baldness?</a></li>
+                                    <li><a href="http://www.blog.drgvg.co.in/how-guys-can-deal-with-hair-loss/">How guys can deal with Hair Loss? </a></li>
+                                    <li><a href="http://www.blog.drgvg.co.in/identifying-what-stage-is-your-hair-loss/">Identifying what stage is your hair loss?</a></li>
+                                    <li><a href="http://www.blog.drgvg.co.in/female-hair-loss-thinning-hair/">Female Hair Loss: Thinning Hair?</a></li>
+                                    <li><a href="http://www.blog.drgvg.co.in/diet-nutrition-advice-for-female-hair-loss/">Diet & Nutrition Advice for Female Hair Loss?</a></li>
                                     
                                 </ul>
                             </div>
