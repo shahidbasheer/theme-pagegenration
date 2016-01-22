@@ -344,14 +344,14 @@ and anemia. </p>
                     <section class="lp__blog">
                         <div class="row">
                             <div class="col-sm-6">
-                                <h4 class="m-b-30">Our Blog - Real Source of guide for help.</h4>
+                                <h4 class="m-b-30">Our Blog.</h4>
                                 <ul class="list-unstyled">
-                                    <li><a href="#">Can women be affected by Pattern Baidness like Man?</a></li>
-                                    <li><a href="#">What stage is your Hair loss? </a></li>
-                                    <li><a href="#">Lorem ipsum dolor sit amet, consectetur.</a></li>
-                                    <li><a href="#">Lorem ipsum dolor sit amet, consectetur.</a></li>
-                                    <li><a href="#">Lorem ipsum dolor sit amet, consectetur.</a></li>
-                                    <li><a href="#">Lorem ipsum dolor sit amet, consectetur.</a></li>
+                                    <li><a href="#">What is Male Pattern Baldness?</a></li>
+                                    <li><a href="#">How guys can deal with Hair Loss? </a></li>
+                                    <li><a href="#">Identifying what stage is your hair loss?</a></li>
+                                    <li><a href="#">Female Hair Loss: Thinning Hair?</a></li>
+                                    <li><a href="#">Diet & Nutrition Advice for Female Hair Loss?</a></li>
+                                    
                                 </ul>
                             </div>
                             <div class="col-sm-6">
