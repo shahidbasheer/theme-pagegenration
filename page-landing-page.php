@@ -75,12 +75,7 @@ Template Name: landing-page
                                     <div class="row">
                                             <div class="col-xs-12 col-sm-8">
                                                 <p>
-                                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                                    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                                                    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                                                   Hair loss is a very common concern in men, about 85% of men will have major hair thinning by the time they are 40. Some guys start to lose their locks even before they turn 21. Hair loss, or alopecia as doctors call it, doesn’t usually signal a medical problem. And it poses no health risk. But worries about how it affects your looks are common.
                                                 </p>
 
                                                   
@@ -118,14 +113,9 @@ Template Name: landing-page
                                                
 
 
-                                                <p class="bold">Learn more about Dr GVG Clinic of hair Transplant</p>
+                                                <p class="bold">Come here.. ( will email u the photo separate )</p>
 
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                                                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-                                                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-                                                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                                <p>Causes of Hair loss could be of various factors. Hair loss in guys results mostly from male-pattern baldness, a genetic trait that comes from one of their parent’s Other causes includes certain medications, smoking, Illness or stress can lead to sudden, heavy shedding called telogen effluvium. Good news, though: Hair loss that isn’t from male-pattern baldness often reverses itself.</p>
 
                                             </div>
                                             <div class="col-xs-12 col-sm-4">
@@ -167,9 +157,97 @@ Template Name: landing-page
                                             </div>
                                         </div>
                                 </div> <!-- tab end -->
-                                <div role="tabpanel" class="tab-pane" id="profile">...</div>
-                                <div role="tabpanel" class="tab-pane" id="messages">...</div>
-                                <div role="tabpanel" class="tab-pane" id="settings">...</div>
+                                <div role="tabpanel" class="tab-pane" id="profile">
+                                    
+<div class="row"> <div class="col-xs-12 col-sm-8"> <p> Although hair
+loss may seem like a more prominent problem in men, women are nearly
+as likely to lose, or have thinning, hair. Most women notice it in
+their 50s or 60s, but it can happen at any age and for a variety of
+reasons. There are a wide range of conditions that can bring on hair
+loss, with some of the most common being pregnancy, thyroid disorders,
+and anemia. </p>
+
+                                                                                          
+                                                                                          <div class="carousel-1">
+                                                                                           
+                                                                                                <div id="demo-2" >
+                                                                                                     <div class="item"><img src="<?php echo  theme_root . '/'; ?>images/dr.png" alt="Owl Image"></div>
+                                                                                                     <div class="item"><img src="<?php echo  theme_root . '/'; ?>images
+
+                                        /dr.png" alt="Owl Image"></div>
+                                                                                                     <div class="item"><img src="<?php echo  theme_root . '/'; ?>images
+
+                                        /dr.png" alt="Owl Image"></div>
+                                                                                                     <div class="item"><img src="<?php echo  theme_root . '/'; ?>images
+
+                                        /dr.png" alt="Owl Image"></div>
+                                                                                                     <div class="item"><img src="<?php echo  theme_root . '/'; ?>images
+
+                                        /dr.png" alt="Owl Image"></div>
+                                                                                                     <div class="item"><img src="<?php echo  theme_root . '/'; ?>images
+
+                                        /dr.png" alt="Owl Image"></div>
+                                                                                                     <div class="item"><img src="<?php echo  theme_root . '/'; ?>images
+
+                                        /dr.png" alt="Owl Image"></div>
+                                                                                                </div>
+                                                                                                <img src="<?php echo  theme_root . '/'; ?>images
+
+                                        /pre-landing.png" alt="" class="indicator-pre">
+                                                                                                <img src="<?php echo  theme_root . '/'; ?>images
+
+                                        /next-landing.png" alt="" class="indicator-next">
+                                                                                          </div>
+                                                                                        
+                                                                                       
+
+
+                                                                                        <p class="bold">Come here.. ( will email u the photo separate )</p>
+
+                                                                                        <p>Others include autoimmune diseases, polycystic ovary syndrome (PCOS), and skin conditions such as psoriasis and seborrheic dermatitis. Extreme stress; physical trauma like surgery or intense illness; dramatic weight loss over a short period of time can also be a cause for hair loss.</p>
+
+                                                                                    </div>
+                                                                                    <div class="col-xs-12 col-sm-4">
+                                                                                        <ul class="list-unstyled">
+                                                                                            
+                                                                                            <li>
+                                                                                                <a href="#" class="lp__lear-more_anchor">
+                                                                                                    <p class="heading">hair Loss Treatment</p>
+                                                                                                    <p class="small">From Surgical to non - sergical</p>
+                                                                                                    <img src="<?php echo  theme_root . '/'; ?>images
+
+                                        /free-60-icons-03.png">
+                                                                                                </a>
+                                                                                            </li>
+
+                                                                                            <li>
+                                                                                                <a href="#" class="lp__lear-more_anchor">
+                                                                                                    <p class="heading">hair Loss Treatment</p>
+                                                                                                    <p class="small">From Surgical to non - sergical</p>
+                                                                                                    <img src="<?php echo  theme_root . '/'; ?>images
+
+                                        /free-60-icons-03.png">
+                                                                                                </a>
+                                                                                            </li>
+
+                                                                                            <li>
+                                                                                                <a href="#" class="lp__lear-more_anchor">
+                                                                                                    <p class="heading">hair Loss Treatment</p>
+                                                                                                    <p class="small">From Surgical to non - sergical</p>
+                                                                                                    <img src="<?php echo  theme_root . '/'; ?>images
+
+                                        /free-60-icons-03.png">
+                                                                                                </a>
+                                                                                            </li>
+                                                                                            
+                                                                                            
+
+                                                                                        </ul>
+                                                                                    </div>
+                                                                                </div>
+
+                                </div> <!-- tabpanel end -->
+                                
                               </div>
 
                             
@@ -418,6 +496,35 @@ Template Name: landing-page
     <script>
            jQuery(document).ready(function($) {
             var owl  = $('#demo');
+             $(owl).owlCarousel({
+            
+                 autoPlay: 3000, //Set AutoPlay to 3 seconds
+            
+                 items : 4,
+                 pagination: false,
+                 itemsDesktop : [1199,3],
+                 itemsDesktopSmall : [979,3]
+            
+             });
+
+
+
+             $('.indicator-next').click(function() {
+                console.log('clicked');
+                 owl.trigger('next.#dem');
+             })
+             // Go to the previous item
+             $('.indicator-pre').click(function() {
+                 // With optional speed parameter
+                 // Parameters has to be in square bracket '[]'
+                 owl.trigger('prev.#dem', [300]);
+             })
+            
+           });
+
+
+            jQuery(document).ready(function($) {
+            var owl  = $('#demo-2');
              $(owl).owlCarousel({
             
                  autoPlay: 3000, //Set AutoPlay to 3 seconds

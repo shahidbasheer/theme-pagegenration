@@ -60,6 +60,7 @@ section {
 .about-section p {
   font-size: 20px;
   line-height: 1.5;
+  text-align-last: center;
 }
 
 .lp__lear-more {
@@ -723,6 +724,16 @@ section {
 }
 
 #demo .item img {
+  display: block;
+  width: 100px;
+  height: 129px;
+}
+
+#demo-2 .item {
+  margin: 3px;
+}
+
+#demo-2 .item img {
   display: block;
   width: 100px;
   height: 129px;
