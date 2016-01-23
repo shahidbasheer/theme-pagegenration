@@ -1088,5 +1088,18 @@ header {
     padding-right: 100px;
   }
 }
+.slider-left-banner {
+  background: #fff;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+.slider-left-banner h3 {
+  font-size: 18px;
+  font-weight: bold;
+}
+.slider-left-banner p {
+  font-size: 14px;
+  color: #fdc92b;
+}
 
 /*# sourceMappingURL=style-landing-page.css.map */
