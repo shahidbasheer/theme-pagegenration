@@ -28,6 +28,7 @@ header .logo {
   font-size: 48px;
   font-weight: bold;
   text-transform: capitalize;
+  margin-bottom: 10px;
 }
 .jumbotron .banner-text ul {
   margin-top: 24px;
@@ -47,7 +48,7 @@ section {
   margin-top: 70px;
   padding: 0 200px;
   text-align: left;
-  margin-bottom: 100px;
+  margin-bottom: 80px;
 }
 .about-section h3 {
   text-align: center;
@@ -744,8 +745,8 @@ section {
 
 #demo .item img {
   display: block;
-  width: 100px;
-  height: 129px;
+  width: 220px;
+  height: 150px;
 }
 
 #demo-2 .item {
@@ -754,8 +755,8 @@ section {
 
 #demo-2 .item img {
   display: block;
-  width: 100px;
-  height: 129px;
+  width: 220px;
+  height: 150px;
 }
 
 .owl-carousel .owl-wrapper-outer {
@@ -997,6 +998,42 @@ header {
 
 .m-b-40 {
   margin-bottom: 40px !important;
+}
+
+.do-you-know {
+  padding: 20px;
+  border: 3px solid #f7ad7b;
+  border-radius: 4px;
+  background: #fefbe7;
+  max-width: 880px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-bottom: 80px;
+}
+.do-you-know h3 {
+  color: #f16c13;
+  margin-top: 0;
+  font-weight: bold;
+}
+.do-you-know p.red {
+  color: #c60000;
+}
+.do-you-know .bnt {
+  padding: 6px 12px;
+}
+.do-you-know .m-b-20 {
+  margin-bottom: 20px;
+}
+.do-you-know .m-b-30 {
+  margin-bottom: 30px;
+}
+.do-you-know .m-b-40 {
+  margin-bottom: 40px;
+}
+.do-you-know .no-m-b {
+  margin-bottom: 0;
+  padding: 6px 30px;
 }
 
 /*# sourceMappingURL=style-landing-page.css.map */
