@@ -8,8 +8,8 @@ header .logo {
 
 .jumbotron {
   position: relative;
-  padding-left: 100px;
-  padding-right: 100px;
+  padding-left: 50px;
+  padding-right: 50px;
   padding-top: 150px;
   height: 600px;
   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#f0d30b+0,f1d67f+51,f0d30b+100 */
@@ -37,6 +37,18 @@ header .logo {
 .jumbotron .banner-text ul li {
   font-size: 22px;
   margin-bottom: 3px;
+}
+.jumbotron .banner-parent {
+  position: relative;
+}
+.jumbotron .banner {
+  position: absolute;
+  top: -109px;
+  right: -280px;
+  display: block;
+  width: 334px;
+  height: 558px;
+  background: url("../images/banner-img.png") no-repeat;
 }
 
 section {
@@ -1045,6 +1057,12 @@ header {
 .do-you-know .no-m-b {
   margin-bottom: 0;
   padding: 6px 30px;
+}
+
+@media (max-width: 1120px) {
+  .jumbotron .banner {
+    display: none;
+  }
 }
 
 /*# sourceMappingURL=style-landing-page.css.map */
