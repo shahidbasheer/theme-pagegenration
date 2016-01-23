@@ -382,7 +382,6 @@ section {
   padding-right: 10px;
 }
 .lp__appointmetn-bottom .treatment-block {
-  border: 1px solid #ffbf87;
   border-radius: 4px;
   padding: 10px 20px;
   margin-bottom: 10px;
@@ -391,12 +390,17 @@ section {
   font-weight: bold;
   margin-bottom: 4px;
 }
+.lp__appointmetn-bottom .treatment-block ul li {
+  font-size: 16px;
+}
 .lp__appointmetn-bottom .treatment-block i {
   display: inline-block;
-  font-size: 36px;
-  color: #ffbf87;
-  margin-top: 12px;
-  float: right;
+  font-size: 16px;
+  color: #000;
+  margin-right: 10px;
+}
+.lp__appointmetn-bottom .treatment-block p {
+  font-size: 16px;
 }
 .lp__appointmetn-bottom p.footer-text {
   margin-top: 20px;
@@ -793,12 +797,12 @@ section {
 
 .indicator-next {
   right: -11px;
-  top: 44%;
+  top: 43%;
 }
 
 .indicator-pre {
   left: -11px;
-  top: 44%;
+  top: 43%;
 }
 
 .indicator-next.femail {
