@@ -1063,6 +1063,19 @@ header {
   .jumbotron .banner {
     display: none;
   }
+
+  .jumbotron {
+    position: relative;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
+}
+@media (min-width: 1120px) {
+  .jumbotron {
+    position: relative;
+    padding-left: 100px;
+    padding-right: 100px;
+  }
 }
 
 /*# sourceMappingURL=style-landing-page.css.map */
