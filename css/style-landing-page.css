@@ -745,8 +745,8 @@ section {
 
 #demo .item img {
   display: block;
-  width: 220px;
-  height: 150px;
+  width: 150px;
+  height: auto;
 }
 
 #demo-2 .item {
@@ -755,8 +755,8 @@ section {
 
 #demo-2 .item img {
   display: block;
-  width: 220px;
-  height: 150px;
+  width: 150px;
+  height: auto;
 }
 
 .owl-carousel .owl-wrapper-outer {
