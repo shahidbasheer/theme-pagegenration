@@ -788,6 +788,16 @@ section {
   top: 41%;
 }
 
+#demo-2 .indicator-next {
+  right: -11px;
+  top: 47%;
+}
+
+#demo-2 .indicator-pre {
+  left: -11px;
+  top: 47%;
+}
+
 .btn-orange-top {
   color: #ffffff;
   background-color: #ffae00;
