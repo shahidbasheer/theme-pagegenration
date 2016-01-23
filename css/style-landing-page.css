@@ -1088,18 +1088,21 @@ header {
     padding-right: 100px;
   }
 }
-.slider-left-banner {
+.lp__lear-more .slider-left-banner {
   background: #fff;
   padding: 10px;
   border: 1px solid #ddd;
 }
-.slider-left-banner h3 {
+.lp__lear-more .slider-left-banner h3 {
   font-size: 18px;
   font-weight: bold;
+  text-transform: capitalize;
+  text-decoration: none;
+  letter-spacing: 0;
 }
-.slider-left-banner p {
+.lp__lear-more .slider-left-banner p {
   font-size: 14px;
-  color: #fdc92b;
+  color: #ff7e00;
 }
 
 /*# sourceMappingURL=style-landing-page.css.map */
