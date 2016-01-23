@@ -402,6 +402,9 @@ section {
 .lp__appointmetn-bottom .treatment-block p {
   font-size: 16px;
 }
+.lp__appointmetn-bottom p {
+  font-size: 16px;
+}
 .lp__appointmetn-bottom p.footer-text {
   margin-top: 20px;
   color: #ff7700;
