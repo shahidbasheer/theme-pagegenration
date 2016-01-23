@@ -1099,6 +1099,7 @@ header {
   text-transform: capitalize;
   text-decoration: none;
   letter-spacing: 0;
+  margin-top: 0;
 }
 .lp__lear-more .slider-left-banner p {
   font-size: 14px;
