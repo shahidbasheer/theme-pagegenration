@@ -29,6 +29,7 @@ header .logo {
   font-weight: bold;
   text-transform: capitalize;
   margin-bottom: 10px;
+  max-width: 468px;
 }
 .jumbotron .banner-text ul {
   margin-top: 24px;
