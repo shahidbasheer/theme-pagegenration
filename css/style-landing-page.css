@@ -1107,5 +1107,9 @@ header {
   color: #ff7e00;
   margin: 0 0 24px;
 }
+.lp__lear-more .slider-left-banner img {
+  width: 249px;
+  height: 488px;
+}
 
 /*# sourceMappingURL=style-landing-page.css.map */
