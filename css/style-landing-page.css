@@ -962,6 +962,10 @@ section {
   .lp__lear-more .tab-content ul {
     margin-left: 15px;
   }
+
+  .lp__blog .dr-msg .title h5 {
+    font-size: 11px;
+  }
 }
 @media (min-width: 1200px) {
   .lp__appointmetn-bottom {
