@@ -13,7 +13,7 @@
                 </div>
                 <div class="collapse navbar-collapse js-navbar-collapse">
                     <ul class="nav navbar-nav">
-                            <li><a  target="_blank" href="http://www.blog.drgvg.co.in/identifying-what-stage-is-your-hair-loss/"><strong>What is Hair Loss</strong></a></li>
+                            <li><a  target="_blank" href="http://www.blog.drgvg.com/identifying-what-stage-is-your-hair-loss/"><strong>What is Hair Loss</strong></a></li>
                             <!-- <li><a href="#home"  data-toggle="tab"><strong>Hair Loss for Men</strong></a></li>
                             <li><a href="#profile"  data-toggle="tab"><strong>Hair Loss for Women</strong></a></li> -->
                             <li><a  target="_blank" href="http://drgvg.co.in/"><strong>Visit Dr GVG Asthetic Clinic</strong></a></li>
