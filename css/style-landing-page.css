@@ -789,12 +789,12 @@ section {
   top: 44%;
 }
 
-#demo-2 .indicator-next {
+.indicator-next.femail {
   right: -11px;
   top: 47%;
 }
 
-#demo-2 .indicator-pre {
+.indicator-pre.femail {
   left: -11px;
   top: 47%;
 }
