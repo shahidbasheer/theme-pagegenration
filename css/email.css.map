@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,MAAO;EACN,UAAU,EAAE,OAAO",
+"sources": ["../../../../../my_gulp_work_flow/ionicframwork/gvg-langing-page/sass/email.scss"],
+"names": [],
+"file": "email.css"
+}
